@@ -7,6 +7,7 @@ The main objective is to identify clusters of countries with similar development
 
 	1.	Exploratory Data Analysis (EDA) 🔍
 	•	Distribution, correlation, outlier detection
+ 
 	•	SweetViz & Seaborn visualizations
 	2.	Dimensionality Reduction with PCA 📉
 	•	Reduced multicollinearity and improved clustering performance
