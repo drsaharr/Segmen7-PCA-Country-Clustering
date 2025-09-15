@@ -19,6 +19,7 @@ The main objective is to identify clusters of countries with similar development
 	•	DBSCAN
 	•	Mean Shift,Gaussian 
 	•	BIRCH
+
 	4.	Evaluation Metrics 🧪
  5.	
 	•	Silhouette Score: [-1, 1] → Higher is better
